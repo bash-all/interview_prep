@@ -1,4 +1,3 @@
-package graph;
 import java.util.*;
 public class closed_islands {
 
