@@ -1,3 +1,5 @@
+package array;
+
 import java.util.Stack;
 
 public class daily_temperatures {
